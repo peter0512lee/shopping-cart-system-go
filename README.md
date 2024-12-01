@@ -1,5 +1,7 @@
 # Shopping Cart System
 
+![demo](docs/demo-shopping-card.gif)
+
 A simple e-commerce shopping cart system built with Go (backend) and React (frontend), featuring real-time cart updates and a responsive design.
 
 ## Features
